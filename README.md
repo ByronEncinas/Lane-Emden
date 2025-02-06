@@ -1,4 +1,4 @@
-# Lane-Emden
+# Lane-Emden (forked from https://github.com/earlbellinger)
 
 Interactive numerical solutions to the Lane-Emden equation for stellar structure using `ipywidgets`. 
 
